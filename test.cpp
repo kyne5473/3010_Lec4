@@ -20,4 +20,8 @@ TEST_CASE ( "Sums are computed"){
     REQUIRE(Sum(c) == 15);
     std::vector<int> d = { 1, 2, 3, 4, 5, 6 };
     REQUIRE(Sum(d) == 21);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 5f5a0bd87ed1c6d651fedcf21c285a7589984d3f
